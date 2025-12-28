@@ -1,4 +1,8 @@
 До class diag
-<img width="1958" height="1146" alt="class ПОСЛЕ" src="https://github.com/user-attachments/assets/cb155db5-2264-4c8c-b27d-44929f95905f" />
+<img width="1958" height="1146" alt="class ПОСЛЕ" src="https://github.com/nor1DX/10lab_mis/blob/main/assets/class%20%D0%94%D0%9E.png" />
+
 После class diag
-<img width="1714" height="1214" alt="class ДО" src="https://github.com/user-attachments/assets/d07b3045-32bc-4abd-a41b-72203afe6ea1" />
+<img width="1714" height="1214" alt="class ДО" src="https://github.com/nor1DX/10lab_mis/blob/main/assets/class%20%D0%9F%D0%9E%D0%A1%D0%9B%D0%95.png)" />
+
+use-case
+
