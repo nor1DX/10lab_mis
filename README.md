@@ -1,3 +1,7 @@
+ДИАГРАММЫ:
+
+
+
 До class diag
 
 <img width="1958" height="1146" alt="class ДО" src="https://github.com/nor1DX/10lab_mis/blob/main/assets/class%20%D0%94%D0%9E.png" />
